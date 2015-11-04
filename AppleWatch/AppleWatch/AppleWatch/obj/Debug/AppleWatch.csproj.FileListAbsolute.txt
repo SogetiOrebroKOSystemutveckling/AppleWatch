@@ -1,0 +1,11 @@
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\AppleWatch.dll
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\AppleWatch.pdb
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\obj\Debug\AppleWatch.csprojResolveAssemblyReference.cache
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\obj\Debug\AppleWatch.Pages.PlayerPage.xaml.g.cs
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\obj\Debug\AppleWatch.dll
+C:\Users\jolangev\Documents\GitHub\AppleWatch\AppleWatch\AppleWatch\AppleWatch\obj\Debug\AppleWatch.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppleWatch.Pages.PlayerPage"
+             Title="{Binding Title}">
+  <Label 
+    Text="{Binding Song.Title}" 
+    HorizontalOptions="Fill" />
+  <Label
+    Text="{Binding Song.Artist}"
+    HorizontalOptions="Fill" />
+  
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="Auto" />
+      <ColumnDefinition Width="*" />
+      <ColumnDefinition Width="Auto" />
+    </Grid.ColumnDefinitions>
+    
+    <Button 
+      Grid.Column="0" 
+      Text="&gt;"
+            />
+
+    <Button
+      Grid.Column="1"
+      Text=";"
+            />
+
+    />
+    <Button
+    Grid.Column="2"
+    Text="&gt;&gt;"
+            />
+  </Grid>
+</ContentPage>
